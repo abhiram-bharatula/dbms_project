@@ -11,4 +11,4 @@ function selectRole(role) {
     else if (role === "admin") {
         window.location.href = "admin-login.html";
     }
-}
+}   
